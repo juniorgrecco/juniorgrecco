@@ -20,8 +20,8 @@
 
 <div>
   <a href="https://github.com/juniorgrecco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark"/>
-    <img src="https://camo.githubusercontent.com/e5c7aabefeaf1030721249ef22a336b99b88c7346e8f0fe86b592bb5e1a6576d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api/?username=juniorgrecco&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=dark" />
   </a>
 </div>
 
