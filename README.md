@@ -29,19 +29,19 @@
 ### Contacts
 
 <div>
-  <a href="#" target="_blank" style="text-decoration: none;">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>   
-  <a href="https://www.linkedin.com/in/juhgrecco-dev/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/juhgrecco-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="#" target="_blank" style="text-decoration: none;">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="#" target="_blank" style="text-decoration: none;">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>   
 </div>
