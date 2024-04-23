@@ -29,7 +29,7 @@
 ### My Stats
 
 <!-- GithubStats -->
-![juniorgrecco GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
+![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
 
 <div>
   <a href="https://github.com/juniorgrecco">
