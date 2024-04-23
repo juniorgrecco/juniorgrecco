@@ -29,10 +29,10 @@
 ### Contacts
 
 <div {: style="text-decoration:none;"}>
-  <a href="#" target="_blank" style="margin-right: 20px;">
+  <a href="#" {: style="text-decoration:none;"}>
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>   
-  <a href="https://www.linkedin.com/in/juhgrecco-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/juhgrecco-dev/" {: style="text-decoration:none;"}>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" target="_blank">
