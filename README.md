@@ -1,10 +1,9 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Freelancer
+### HI - 🔭 I’m Júnior, currently working on Freelancer
 - 🌱 I’m currently learning Python, Django, Flask | Vue, React, typeScript
 - 💬 Ask me about JavaScript, CSS or HTML
 
 <!-- Dropdown -->
+
 <details>
   <summary>👨‍💻 More about me</summary>
 
@@ -29,8 +28,9 @@
 ### My Progress
 
 <!-- Github Progress -->
-![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
 
+![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=gotham)
+![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
 
 <div>
   <a href="https://github.com/juniorgrecco">
