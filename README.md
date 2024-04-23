@@ -29,7 +29,7 @@
 
 <!-- Github Progress -->
 
-![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=gotham)
+![juniorgrecco my Progress](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=gotham" alt="Top Languages" style="height: 180px; width: 400px;">)
 ![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
 
 <div>
