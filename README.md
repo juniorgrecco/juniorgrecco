@@ -29,8 +29,12 @@
 
 <!-- Github Progress -->
 
-![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=gotham)
-![juniorgrecco my Progress](https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=gotham)
+<div>
+  <a href="https://github.com/juniorgrecco">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 ### Contacts
 
