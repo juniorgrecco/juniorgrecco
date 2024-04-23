@@ -4,6 +4,15 @@
 - 🌱 I’m currently learning Python, Django, Flask | Vue, React, typeScript
 - 💬 Ask me about JavaScript, CSS or HTML
 
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 40 years old, currently living in Brazil. I have intermediate English. I'm also a content creator on YouTube since 2024, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
 ### Best technologies
 
 <div>
@@ -28,12 +37,9 @@
 
 ### Contacts
 
-<div>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" {: style="text-decoration:none;"} />
-  </a>   
+  [![Youtube][(https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/juhgrecco-dev/)  
   <a href="https://www.linkedin.com/in/juhgrecco-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" {: style="text-decoration:none;"} />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
