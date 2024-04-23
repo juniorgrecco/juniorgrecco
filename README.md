@@ -32,6 +32,7 @@
 <div>
   <a href="https://github.com/juniorgrecco">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=juniorgrecco"/>
     <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/-->
   </a>
 </div>
@@ -47,8 +48,5 @@
   <a href="https://discord.com/channels/1229543881897545749/1229543882476228652" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juhgrecco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juhgrecco-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniorgrecco)
 
