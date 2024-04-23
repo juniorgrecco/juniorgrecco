@@ -26,6 +26,12 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" />              
 </div>
 
+### Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhgrecco-dev/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white")](https://www.linkedin.com/in/juhgrecco-dev/)  
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.linkedin.com/in/juhgrecco-dev/)
+
 ### My Stats
 
 <div>
@@ -35,8 +41,4 @@
   </a>
 </div>
 
-### Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhgrecco-dev/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white")](https://www.linkedin.com/in/juhgrecco-dev/)  
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.linkedin.com/in/juhgrecco-dev/)
