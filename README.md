@@ -34,8 +34,8 @@
 
 <div>
   <a href="https://github.com/juniorgrecco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=dark" />
+    <img style="height: 180em; text-decoration: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorgrecco&layout=compact&langs_count=7&theme=dark" />
+    <img style="height: 180em; text-decoration: none;" src="https://github-readme-stats.vercel.app/api?username=juniorgrecco&show_icons=true&theme=dark" />
   </a>
 </div>
 
